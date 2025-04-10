@@ -7,7 +7,7 @@ An intelligent, Retrieval-Augmented Generation (RAG) powered tool that recommend
 ## Live Demo & API
 
 - **Web App:** [Streamlit Demo](https://shlrecommendersys.streamlit.app/)
-- **API:** [Render Web Service](https://shl-recommender-byqr.onrender.com)
+- **API:** [API Service](https://shl-recommender-byqr.onrender.com)
 - **Approach:** [Doc](https://drive.google.com/drive/u/0/recent)
 
 ---

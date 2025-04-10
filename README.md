@@ -64,7 +64,7 @@ Hiring managers often struggle to match SHL assessments to job descriptions due 
 
 ### Interactive Streamlit UI
 - Users input job descriptions or free-text queries.
-- Top 1–10 assessment recommendations returned in a table:
+- Top 1–10 assessment recommendations returned:
   - Assessment Name
   - URL
   - Duration
